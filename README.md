@@ -4,6 +4,8 @@ Simulador interativo em Python (matplotlib) de uma colisão frontal unidimension
 
 Trabalho **ADO-3 — Colisões, Impulso e Conservação do Momento Linear**, da disciplina *Física: Práticas Extensivas* (Prof. Ettore Baldini-Neto). Opção B: colisão perfeitamente inelástica.
 
+Link do Google Colab: https://colab.research.google.com/drive/1F6NAuV8p3e60oiSn2y59grlNYGvDHjwa?usp=sharing
+
 ## Como executar
 
 Requisitos: Python 3 e matplotlib.
